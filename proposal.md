@@ -20,7 +20,7 @@ Please edit this file and push to your repository.
 | Typical number of commits per week? | 5 |
 | Typical commit size | 1 file change, 30 +/- changes |
 | How does the project accept contributions? | pull requests   |
-| Does the project have an automated test suite? | no |
+| Does the project have an automated test suite? | yes |
 | Does the project use continuous integration? | yes?|
 | Are any legal/licensing steps required to contribute? | no |
 
