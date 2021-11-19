@@ -1,29 +1,28 @@
 # Community Software Analysis Proposal
 Please edit this file and push to your repository.
 
-## Software: *NAME_OF_PACKAGE_HERE*
+## Software: *PFSSPY*
 
-*Write a paragraph describing what the software does and who its
-primary audience is.*
+*PFSSPY is a python package for carrying out Potential Field Source Surface (PFSS) modelling, a commonly used magnetic field model of the Sun and other stars. Primarily used within the solar physics community, specifically within the global atmopshere modeling community.*
 
 ### Stats
 
 | Description | Your answer |
 |---------|-----------|
-| Repository URL |    |
-| Main/documentation website |    |
-| Year project was started |   |
-| Number of contributors in the past year | `git shortlog -se --since=2020-10-01` may be useful |
-| Number of contributors in the lifetime of the project |   |
-| Number of distinct affiliations | 1, 2-5, 5-10, >10 |
-| Where do development discussions take place? | e.g., GitHub/GitLab issues, mailing list, Slack, etc.  |
-| Typical number of emails/comments per week? |   |
-| Typical number of commits per week? |  |
-| Typical commit size | `git log --shortstat` may be useful |
-| How does the project accept contributions? | e.g., pull requests, patches on mailing lists   |
-| Does the project have an automated test suite? | yes/no |
-| Does the project use continuous integration? | yes/no |
-| Are any legal/licensing steps required to contribute? | no or explain below |
+| Repository URL | https://github.com/dstansby/pfsspy   |
+| Main/documentation website | https://pfsspy.readthedocs.io/en/stable/   |
+| Year project was started |  2018/2017 |
+| Number of contributors in the past year | 4 |
+| Number of contributors in the lifetime of the project | 4 |
+| Number of distinct affiliations |  2-5 |
+| Where do development discussions take place? | GitHub/GitLab issues |
+| Typical number of emails/comments per week? |   1 - 0 |
+| Typical number of commits per week? | 5 |
+| Typical commit size | 1 file change, 30 +/- changes |
+| How does the project accept contributions? | pull requests   |
+| Does the project have an automated test suite? | no |
+| Does the project use continuous integration? | yes?|
+| Are any legal/licensing steps required to contribute? | no |
 
 ### Install and run
 
